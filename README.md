@@ -59,7 +59,7 @@
 
 * 📧 Email: [tusharpatil9692@gmail.com](mailto:tusharpatil9692@gmail.com)
 * 📱 Mobile: +91-9529954189
-* 💼 LinkedIn: *(Add your link here)*
+* 💼 LinkedIn: https://www.linkedin.com/feed/
 
 ---
 
