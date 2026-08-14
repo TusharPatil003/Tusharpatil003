@@ -1,72 +1,59 @@
-# Hi there 👋, I'm Tushar Patil
+# Hi 👋, I'm Tushar Patil
 
-🚀 **MERN Stack Developer | Frontend Enthusiast | Fresher**
+### Backend Developer | MERN Stack Developer | Fresher
 
----
+I am a passionate software developer focused on building practical and scalable web applications.
 
-## 👨‍💻 About Me
+I have hands-on experience with backend development using Node.js, Express.js, MongoDB and REST APIs, along with frontend development using React.js.
 
-* 🎓 Bachelor’s Degree in Computer Science / IT
-* 💻 Passionate about building web applications
-* 🌱 Currently learning **Advanced React & Backend Development**
-* 🔭 Working on **MERN Stack Projects**
-* 🎯 Goal: To become a **Full Stack Developer**
-* 📍 Location: Pune, Maharashtra, India
+I enjoy working on real-world projects, solving problems, learning new technologies, and improving my development skills.
 
----
+### 🚀 What I Can Do
 
-## 🛠️ Tech Stack
+- Build REST APIs using Node.js and Express.js
+- Work with MongoDB databases
+- Implement CRUD operations
+- Develop authentication and authorization
+- Connect frontend applications with backend APIs
+- Debug and maintain existing applications
+- Work with Git and GitHub
+- Learn and adapt to new technologies quickly
 
-### 💻 Frontend
+### 🛠️ Tech Stack
 
-* HTML, CSS, JavaScript
-* React.js
-* Bootstrap / Tailwind CSS
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Bootstrap
+- Tailwind CSS
 
-### ⚙️ Backend
+**Backend**
+- Node.js
+- Express.js
+- REST APIs
 
-* Node.js
-* Express.js
+**Database**
+- MongoDB
 
-### 🗄️ Database
+**Tools**
+- Git
+- GitHub
+- VS Code
+- Postman
 
-* MongoDB
+### 📂 Projects
 
-### 🔧 Tools
+- 🥛 Milk Dairy Management System
+- 💬 MERN Stack Chatting Application
+- 🌐 Portfolio Website
 
-* Git & GitHub
-* VS Code
-* Postman
+### 🎯 Career Goal
 
----
+Looking for an entry-level Backend Developer / Full Stack Developer opportunity where I can contribute to real-world software projects and grow as a professional developer.
 
-## 📂 Projects
+### 📫 Connect With Me
 
-🔹 **Project 1:** Milk Dairy Management System
-🔹 **Project 2:** Portfolio Website
-
-*(Add GitHub links here)*
-
----
-
-## 📊 GitHub Stats
-
-![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=TusharPatil003\&show_icons=true\&theme=radical)
-
----
-
-## 📫 Connect With Me
-
-* 📧 Email: [tusharpatil9692@gmail.com](mailto:tusharpatil9692@gmail.com)
-* 📱 Mobile: +91-9529954189
-* 💼 LinkedIn: https://www.linkedin.com/feed/
-
----
-
-## ⚡ Fun Fact
-
-I love solving coding problems and building real-world projects 🚀
-
----
-
-⭐ **"Keep Learning, Keep Building!"**
+- Email: tusharpatil9692@gmail.com
+- LinkedIn: https://www.linkedin.com/in/tushar-patil-6409a2340/
